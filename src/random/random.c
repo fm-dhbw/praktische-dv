@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+/*das hier ist ein test*/
 int main()
 {
     srand(time(0));
